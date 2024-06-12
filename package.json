@@ -1,0 +1,23 @@
+{
+  "name": "css-scope-inline",
+  "description": "scope css style blocks to their parent",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "script.js",
+  "bugs": {
+    "url": "https://github.com/gnat/css-scope-inline/issues"
+  },
+  "author": {
+    "name": "gnat",
+    "url": "https://github.com/gnat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnat/css-scope-inline.git"
+  },
+  "keywords": [
+    "css",
+    "scoped-css",
+    "inline-css"
+  ]
+}
